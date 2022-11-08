@@ -1,3 +1,5 @@
 # Object detection in laser-plasma experiments
 
-This
+This repository...
+
+The methods is described in https://arxiv.org/abs/2210.02539
